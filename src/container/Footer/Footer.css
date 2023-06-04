@@ -1,0 +1,6 @@
+.app__footer{
+    background: var(--color-black);
+    color: var(--color-gold);
+    text-align: center;
+    padding: 10px;
+}

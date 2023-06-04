@@ -1,0 +1,29 @@
+
+  .app_wrapper_info{
+      top: 120%;
+      width: 100%;
+      margin: 30px  30px ;
+    /* bring your own prefixes */
+      transform: translate(-65%, -65%);
+  }
+  .app_wrapper_info2{
+      width: 100%;
+      top: 80%;
+    /* bring your own prefixes */
+      transform: translate(-50%, -50%);
+  }
+  
+  .app_wrapper_images{
+      /* width: 50px; */
+      height: 120px;
+        
+  }
+  .app_wrapper-img1{
+    /* margin-right: 60%;
+    margin-left: 2%; */
+    top: 120%;
+  }
+  
+  .my__btn{
+    /* margin-left: 20%; */
+  }

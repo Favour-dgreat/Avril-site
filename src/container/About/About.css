@@ -1,0 +1,115 @@
+.app__wrapper{
+    background-color: rgba(45, 3, 59, 1);
+    background-repeat: no-repeat;
+}
+
+.app_landing{
+    background-image:url(./bhh.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.app_landing_text1{
+    color: #fff;
+    font-family: 'Serif';
+    text-transform:uppercase;
+    margin: 2rem 0;
+    font-size: 70px;
+    letter-spacing: 2px;
+
+}
+.app_landing_text2{
+width: 879px;
+height: 174px;
+left: calc(50% - 879px/2 - 0.5px);
+/* top: 382px; */
+
+font-family: 'Lato';
+font-weight: 100px;
+font-style: normal;
+font-size: 20px;
+line-height: 29px;
+text-align: center;
+color: #FFFFFF;
+}
+.my-btns{
+    position: absolute;
+    top: 90%;
+    left: 50%;
+  /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+}
+
+.my_btn{
+border-radius: 5px;
+height: 40px;
+width: 180px;
+left: 0px;
+top: 0px;
+color: #fff;
+border: none;
+margin-right: 20px;
+background: #7909C3;
+}
+
+.my__btn1{
+border-radius: 5px;
+height: 40px;
+width: 180px;
+left: 0px;
+top: 0px;
+color: #7909C3;
+border: 1px solid #7909C3;
+/* background: #7909C3; */
+}
+
+
+.app_landing_text3{
+    color: #fff;
+    font-family: 'blue';
+    font-weight: 100;
+    /* margin: 2rem 0; */
+    font-size: 20px;
+    letter-spacing: 2px;
+
+}
+
+.app_landing_text4{
+    color: #fff;
+    font-family: 'blue';
+    font-weight: 100;
+    /* margin: 2rem 0; */
+    font-size: 30px;
+    letter-spacing: 2px;
+
+}
+.app_landing_btn{
+    /* position: absolute; */
+    width: 400.5px;
+    height: 72px;
+    left: 460px;
+    top: 575px;
+    border-color: #E80F88;
+    background: linear-gradient(90deg, rgba(45,3,59,0.9496567505720824) 7%, rgba(232,15,136,1) 100%);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 20px;
+    border: 1px;
+    color: #fff;
+    font-family: 'Serif';
+    font-size: 28px;
+    cursor: pointer;
+    letter-spacing: 2px;
+}
+.app_landing_btn:hover{
+    box-shadow: 10px 15px linear-gradient(90deg, rgba(45,3,59,0.7757437070938216) 0%, rgba(232,15,136,1) 100%);
+}
+
+.app_landing_info{
+    position: relative;
+    top: 50%;
+    left: 50%;
+  /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+    font-family: 'Blue';
+    text-align: center;
+}
